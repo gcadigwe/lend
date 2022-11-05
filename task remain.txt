@@ -1,0 +1,59 @@
+1.validation all around input field;
+i.e:-unstake component 
+
+2.showing sucees and error toaster;
+i.e:-unstake (amount validation)
+sucees:- when withdraw is success
+3.approve model  confirm staking compoenent 
+4.period field currently hard code dynamic handle 
+5.withdraw tab should highlight and if deposit click open deposit model 
+6.claim web3 integration
+7.resposivness tablet and mobile
+7.all design fix and resposivness
+8.close button not working fine 
+9depsoite and withdraw tab hover 
+10.if not connect with wallet pop up 
+11.cancel button not woeking fine 
+12.toogle uppermenu
+13.metamask center
+14.serach bar proper css
+15.landing loader
+
+
+
+
+/// today todo 
+not able to connect(deposite/withdraw) with wallet
+pop up button 
+
+
+//minor design issue 
+1. data fetching
+2.claim test
+3.minor design isue some of not fixing 
+4.Confirm withdraw
+5.confirm with and stake design issue fix
+6.space issue resolve 
+7.confirm withdraw function excute 
+8.landing page  on loader
+
+
+// duration 
+1.30days 2.60 days 3.1095days 
+
+1.when click withdraw now without validate going to next 
+2.apr value is not displaying in unstaking confirm card
+
+APR value is not showing both side 
+
+withdraw confirm network fees
+
+
+// 
+
+Staking change name HyperStake
+
+
+
+hyperstake below of hyperswap
+and hover highlight

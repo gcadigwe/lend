@@ -1,0 +1,53 @@
+{
+  "4": {
+    "RewardToken": [
+      "0x20207D6728bF00F98E224644F293c8b583325Ccc"
+    ],
+    "StakeInitializable": [
+      "0x17098174DadbD17b653241B13d813E648642812f"
+    ],
+    "StakeToken": [
+      "0x16E4616f0c712b7487EF6615d5E64D576dbe30D3"
+    ],
+    "StakeTokenFactory": [
+      "0xFAe784b7c832F71bdf3Ef1A8E12B01616c824D90"
+    ]
+  },
+  "43113": {
+    "RewardToken": [
+      "0xF103d7d134791e49060fF6F65480f31f4e5203bC"
+    ],
+    "StakeToken": [
+      "0xC89b03c370a733881aaC610E84265E3559dDD984"
+    ],
+    "StakeTokenFactory": [
+      "0x54b77841F7e51614bC5587E607Daaafc0453447f"
+    ]
+  },
+  "80001": {
+    "RewardToken": [
+      "0xaF437C5F3F6F2fb38A047Ec06fcc36B072DCE7fC"
+    ],
+    "StakeToken": [
+      "0x7b2f1ee1d142F151180D2C0b708FBfdF43BBbB46"
+    ],
+    "StakeTokenFactory": [
+      "0xcC1fb675638e38fb7Ef07ce13c4cD6Cf078f15C4"
+    ]
+  },
+  "97": {
+    "RewardToken": [
+      "0xaAE448F60Ce079bDFE17f8dbC165210B28F38556"
+    ],
+    "StakeInitializable": [
+      "0x683951b3a9ca402c7BF584b0440bB876a7b6B78d"
+    ],
+    "StakeToken": [
+      "0xf0dd306501C61dBA5cb04f10954c8225dB164752",
+      "0x338dCFCcCF0cfEe6E49D20A9336F11949153DB76"
+    ],
+    "StakeTokenFactory": [
+      "0x002Abea9655958B59b47930FDf8B7d3ed10E10b5"
+    ]
+  }
+}

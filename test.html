@@ -1,0 +1,65 @@
+<html>
+  <head>
+    <title>Wyre widget</title>
+  </head>
+  <body>
+    <button id="buy">Buy</button>
+    <div id="wyre-dropin-widget-container"></div>
+
+    <script
+      src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+      integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+      crossorigin="anonymous"
+    ></script>
+    <script src="https://verify.sendwyre.com/js/verify-module-init-beta.js"></script>
+    <script type="text/javascript">
+      const data = {
+        sourceAmount: '1',
+        amountIncludeFees: false,
+        paymentMethod: 'debit-card',
+        sourceCurrency: 'NOK',
+        destCurrency: 'BTC',
+        dest: 'bitcoin:1BvBMSEYstWetqTFn5Au4m4GFg7xJaNVN2',
+        referrerAccountId: 'AC_ZEC8DVC6GRT',
+        street1: 'Bergjelandsgt. 30',
+        postalCode: '4012',
+        city: 'Stavanger',
+        state: 'Rogaland',
+        country: 'NO'
+      }
+      ;(function($) {
+        fetch('https://api.sendwyre.com/v3/orders/reserve', {
+          method: 'post',
+          data,
+          headers: {
+            'Content-Type': 'application/json',
+            Authorization: 'Bearer SK-4PGENC37-VMQ3UBD8-LEFFNPAT-AMXA2DJL'
+          }
+        })
+          .then(res => {
+            console.log(res)
+          })
+          .catch(err => {
+            console.log(err.message)
+          })
+        // debit card popup
+        // var widget = new Wyre({
+        //   env: 'test',
+        //   reservation: 'EFR2WLGEDAMYU6QEAXFF',
+        //   /*A reservation id is mandatory. In order for the widget to open properly you must use a new, unexpired reservation id. Reservation ids are only valid for 1 hour. A new reservation must also be made if a transaction fails.*/
+        //   operation: {
+        //     type: 'debitcard-hosted-dialog'
+        //   }
+        // })
+
+        // widget.on('paymentSuccess', function(e) {
+        //   console.log('paymentSuccess', e)
+        // })
+
+        // $('#buy').click(function() {
+        //   widget.open()
+        // })
+      })(jQuery)
+    </script>
+  </body>
+</html>

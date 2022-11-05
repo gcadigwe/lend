@@ -1,0 +1,278 @@
+{
+  "topPairsData": [
+    {
+      "pairAddress": "ETH-DAI_ADD1",
+      "pairName": "ETH-DAI",
+      "chainId": "ETH",
+
+      "tokenAAddress": "0x111111111117dC0aa78b770fA6A738034120C302",
+      "tokenABalance": 123456,
+      "tokenATicker": "000000",
+      "tokenAUSDExRate": 123455,
+      "tokenALogo": "https://assets.coingecko.com/coins/images/1/thumb_2x/bitcoin.png?1547033579 2x",
+
+      "tokenBAddress": "0xBA11D00c5f74255f56a5E366F4F77f5A186d7f55",
+      "tokenBBalance": 123456,
+      "tokenBTicker": "000000",
+      "tokenBUSDExRate": 9876,
+      "tokenBLogo": "https://assets.coingecko.com/coins/images/279/thumb/ethereum.png?1595348880",
+
+      "totalLiquidity": 123455,
+      "timeStamp": 121918273981,
+      "liquidity24H": "todo",
+      "liquidity12H": "todo",
+      "totalFees": "todo"
+    },
+    {
+      "pairName": "ETH-DAI",
+      "pairAddress": "ETH-DAI_ADD1",
+      "chainId": "ETH",
+
+      "tokenAAddress": "123456",
+      "tokenABalance": 123456,
+      "tokenATicker": "000000",
+      "tokenAUSDExRate": 123455,
+      "tokenALogo": "https://assets.coingecko.com/coins/images/1/thumb_2x/bitcoin.png?1547033579 2x",
+
+      "tokenBAddress": "0x111111111117dC0aa78b770fA6A738034120C302",
+      "tokenBBalance": 123456,
+      "tokenBTicker": "000000",
+      "tokenBUSDExRate": 9876,
+      "tokenBLogo": "https://assets.coingecko.com/coins/images/279/thumb/ethereum.png?1595348880",
+
+      "totalLiquidity": 123455,
+      "timeStamp": 121918273981,
+      "liquidity24H": "todo",
+      "liquidity12H": "todo",
+      "totalFees": "todo"
+    },
+    {
+      "pairName": "ETH-DAI",
+      "pairAddress": "ETH-DAI_ADD1",
+      "chainId": "ETH",
+      "tokenAAddress": "123456",
+      "tokenABalance": 123456,
+      "tokenATicker": "000000",
+      "tokenAUSDExRate": 123455,
+      "tokenALogo": "https://assets.coingecko.com/coins/images/1/thumb_2x/bitcoin.png?1547033579 2x",
+
+      "tokenBAddress": "123x123",
+      "tokenBBalance": 123456,
+      "tokenBTicker": "000000",
+      "tokenBUSDExRate": 9876,
+      "tokenBLogo": "https://assets.coingecko.com/coins/images/279/thumb/ethereum.png?1595348880",
+
+      "totalLiquidity": 123455,
+      "timeStamp": 121918273981,
+      "liquidity24H": "todo",
+      "liquidity12H": "todo",
+      "totalFees": "todo"
+    },
+    {
+      "pairName": "ETH-DAI",
+      "pairAddress": "ETH-DAI_ADD1",
+      "chainId": "ETH",
+      "tokenAAddress": "123456",
+      "tokenABalance": 123456,
+      "tokenATicker": "000000",
+      "tokenAUSDExRate": 123455,
+      "tokenALogo": "https://assets.coingecko.com/coins/images/1/thumb_2x/bitcoin.png?1547033579 2x",
+
+      "tokenBAddress": "123x123",
+      "tokenBBalance": 123456,
+      "tokenBTicker": "000000",
+      "tokenBUSDExRate": 9876,
+      "tokenBLogo": "https://assets.coingecko.com/coins/images/279/thumb/ethereum.png?1595348880",
+
+      "totalLiquidity": 123455,
+      "timeStamp": 121918273981,
+      "liquidity24H": "todo",
+      "liquidity12H": "todo",
+      "totalFees": "todo"
+    },
+    {
+      "pairName": "ETH-DAI",
+      "pairAddress": "ETH-DAI_ADD1",
+      "chainId": "ETH",
+
+      "tokenAAddress": "123456",
+      "tokenABalance": 123456,
+      "tokenATicker": "000000",
+      "tokenAUSDExRate": 123455,
+      "tokenALogo": "https://assets.coingecko.com/coins/images/1/thumb_2x/bitcoin.png?1547033579 2x",
+
+      "tokenBAddress": "123x123",
+      "tokenBBalance": 123456,
+      "tokenBTicker": "000000",
+      "tokenBUSDExRate": 9876,
+      "tokenBLogo": "https://assets.coingecko.com/coins/images/279/thumb/ethereum.png?1595348880",
+
+      "totalLiquidity": 123455,
+      "timeStamp": 121918273981,
+      "liquidity24H": "todo",
+      "liquidity12H": "todo",
+      "totalFees": "todo"
+    },
+    {
+      "pairAddress": "ETH-DAI_ADD1",
+      "pairName": "ETH-DAI",
+      "chainId": "ETH",
+
+      "tokenAAddress": "123456",
+      "tokenABalance": 123456,
+      "tokenATicker": "000000",
+      "tokenAUSDExRate": 123455,
+      "tokenALogo": "https://assets.coingecko.com/coins/images/1/thumb_2x/bitcoin.png?1547033579 2x",
+
+      "tokenBAddress": "123x123",
+      "tokenBBalance": 123456,
+      "tokenBTicker": "000000",
+      "tokenBUSDExRate": 9876,
+      "tokenBLogo": "https://assets.coingecko.com/coins/images/279/thumb/ethereum.png?1595348880",
+
+      "totalLiquidity": 123455,
+      "timeStamp": 121918273981,
+      "liquidity24H": "todo",
+      "liquidity12H": "todo",
+      "totalFees": "todo"
+    },
+    {
+      "pairAddress": "ETH-DAI_ADD1",
+      "pairName": "ETH-DAI",
+      "chainId": "ETH",
+
+      "tokenAAddress": "123456",
+      "tokenABalance": 123456,
+      "tokenATicker": "000000",
+      "tokenAUSDExRate": 123455,
+      "tokenALogo": "https://assets.coingecko.com/coins/images/1/thumb_2x/bitcoin.png?1547033579 2x",
+
+      "tokenBAddress": "123x123",
+      "tokenBBalance": 123456,
+      "tokenBTicker": "000000",
+      "tokenBUSDExRate": 9876,
+      "tokenBLogo": "https://assets.coingecko.com/coins/images/279/thumb/ethereum.png?1595348880",
+
+      "totalLiquidity": 123455,
+      "timeStamp": 121918273981,
+      "liquidity24H": "todo",
+      "liquidity12H": "todo",
+      "totalFees": "todo"
+    },
+    {
+      "pairAddress": "ETH-DAI_ADD1",
+      "pairName": "ETH-DAI",
+      "chainId": "ETH",
+
+      "tokenAAddress": "123456",
+      "tokenABalance": 123456,
+      "tokenATicker": "000000",
+      "tokenAUSDExRate": 123455,
+      "tokenALogo": "https://assets.coingecko.com/coins/images/1/thumb_2x/bitcoin.png?1547033579 2x",
+
+      "tokenBAddress": "123x123",
+      "tokenBBalance": 123456,
+      "tokenBTicker": "000000",
+      "tokenBUSDExRate": 9876,
+      "tokenBLogo": "https://assets.coingecko.com/coins/images/279/thumb/ethereum.png?1595348880",
+
+      "totalLiquidity": 123455,
+      "timeStamp": 121918273981,
+      "liquidity24H": "todo",
+      "liquidity12H": "todo",
+      "totalFees": "todo"
+    },
+    {
+      "pairAddress": "ETH-DAI_ADD1",
+      "pairName": "ETH-DAI",
+      "chainId": "ETH",
+
+      "tokenAAddress": "123456",
+      "tokenABalance": 123456,
+      "tokenATicker": "000000",
+      "tokenAUSDExRate": 123455,
+      "tokenALogo": "https://assets.coingecko.com/coins/images/1/thumb_2x/bitcoin.png?1547033579 2x",
+
+      "tokenBAddress": "123x123",
+      "tokenBBalance": 123456,
+      "tokenBTicker": "000000",
+      "tokenBUSDExRate": 9876,
+      "tokenBLogo": "https://assets.coingecko.com/coins/images/279/thumb/ethereum.png?1595348880",
+
+      "totalLiquidity": 123455,
+      "timeStamp": 121918273981,
+      "liquidity24H": "todo",
+      "liquidity12H": "todo",
+      "totalFees": "todo"
+    },
+    {
+      "pairAddress": "ETH-DAI_ADD1",
+      "pairName": "ETH-DAI",
+      "chainId": "ETH",
+
+      "tokenAAddress": "123456",
+      "tokenABalance": 123456,
+      "tokenATicker": "000000",
+      "tokenAUSDExRate": 123455,
+      "tokenALogo": "https://assets.coingecko.com/coins/images/1/thumb_2x/bitcoin.png?1547033579 2x",
+
+      "tokenBAddress": "123x123",
+      "tokenBBalance": 123456,
+      "tokenBTicker": "000000",
+      "tokenBUSDExRate": 9876,
+      "tokenBLogo": "https://assets.coingecko.com/coins/images/279/thumb/ethereum.png?1595348880",
+
+      "totalLiquidity": 123455,
+      "timeStamp": 121918273981,
+      "liquidity24H": "todo",
+      "liquidity12H": "todo",
+      "totalFees": "todo"
+    },
+    {
+      "pairAddress": "ETH-DAI_ADD1",
+      "pairName": "ETH-DAI",
+      "chainId": "ETH",
+
+      "tokenAAddress": "123456",
+      "tokenABalance": 123456,
+      "tokenATicker": "000000",
+      "tokenAUSDExRate": 123455,
+      "tokenALogo": "https://assets.coingecko.com/coins/images/1/thumb_2x/bitcoin.png?1547033579 2x",
+
+      "tokenBAddress": "123x123",
+      "tokenBBalance": 123456,
+      "tokenBTicker": "000000",
+      "tokenBUSDExRate": 9876,
+      "tokenBLogo": "https://assets.coingecko.com/coins/images/279/thumb/ethereum.png?1595348880",
+
+      "totalLiquidity": 123455,
+      "timeStamp": 121918273981,
+      "liquidity24H": "todo",
+      "liquidity12H": "todo",
+      "totalFees": "todo"
+    },
+    {
+      "pairAddress": "ETH-DAI_ADD1",
+      "pairName": "ETH-DAI",
+      "chainId": "ETH",
+
+      "tokenAAddress": "123456",
+      "tokenABalance": 123456,
+      "tokenATicker": "000000",
+      "tokenAUSDExRate": 123455,
+      "tokenALogo": "https://assets.coingecko.com/coins/images/1/thumb_2x/bitcoin.png?1547033579 2x",
+
+      "tokenBAddress": "123x123",
+      "tokenBBalance": 123456,
+      "tokenBTicker": "000000",
+      "tokenBUSDExRate": 9876,
+      "tokenBLogo": "https://assets.coingecko.com/coins/images/279/thumb/ethereum.png?1595348880",
+
+      "totalLiquidity": 123455,
+      "timeStamp": 121918273981,
+      "liquidity24H": "todo",
+      "liquidity12H": "todo",
+      "totalFees": "todo"
+    }
+  ]
+}
